@@ -7,9 +7,9 @@ Analyzing Seattle Airbnb data and answering some fundamental questions about Air
 File Descriptions: 
 
 Listings data - Which has detailed information on various Airbnb listings in Seattle
-Calendar data - Which has listing availability and price info
-Reviews data - Which has user reviews for Airbnb listings
-Seattle Airbnb.ipynb	: is the python analysis 
+Calendar data - Which has listing availability and price info (Unable to upload due to size restrictions)
+Reviews data - Which has user reviews for Airbnb listings (Unable to upload due to size restrictions)
+Seattle_Airbnb_DataExploration.ipynb - ipython notebook
 
 Python Packeges used:
 
