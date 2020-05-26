@@ -25,11 +25,11 @@ cd airbnd_seattle_datascience
 
 ## Python Packages needed to execute
 
-    *Numpy*
-    *Pandas*
-    *Matplotlib*
-    *Seaborn*
-    *Sklearn*
+    *Numpy
+    *Pandas
+    *Matplotlib
+    *Seaborn
+    *Sklearn
 
 ## Acknowledgements and Licensing
 Datatsets for this project are exctracted through the Udacity course from kaggle/AirBnb. You can find further descriptive information at the Kaggle link available below. https://www.kaggle.com/airbnb/seattle/data
